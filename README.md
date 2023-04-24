@@ -6,7 +6,7 @@
 # Tidy Transcriptomics For Single-Cell RNA Sequencing Analyses
 <p float="left">
 <img style="height:100px;" alt="BioC2022" src="https://bioc2022.bioconductor.org/img/carousel/BioC2022.png"/>
-<img style="height:100px;" alt="tidybulk" src="https://github.com/Bioconductor/BiocStickers/blob/master/tidybulk/tidybulk.png?raw=true"/>
+<img style="height:100px;" alt="tidybulk" src="https://github.com/Bioconductor/BiocStickers/blob/devel/tidybulk/tidybulk.png?raw=true"/>
 </p>
 
 ## Workshop Description
